@@ -1,0 +1,5 @@
+{
+  "server": "(local)",
+  "driver": "{ODBC Driver 18 for SQL Server}",
+  "type": "win"
+}
